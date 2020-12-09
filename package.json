@@ -1,7 +1,7 @@
 {
   "name": "weather",
   "version": "1.0.0",
-  "description": "The porpouse of this project it's to get a csv file with today's weather in a specific city with the information from the public site [Open Weather Map](https://openweathermap.org/ \"Open Weather Map's Homepage\").",
+  "description": "The purpose of this project it's to get a csv file with today's weather in a specific city with the information from the public site [Open Weather Map](https://openweathermap.org/ \"Open Weather Map's Homepage\").",
   "main": "index.js",
   "scripts": {
     "lint": "npx eslint index.js --fix",
