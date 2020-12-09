@@ -2,7 +2,7 @@
 
 The porpouse of this project it's to get a csv file with today's weather in a specific city with the information from the public site [Open Weather Map](https://openweathermap.org/ "Open Weather Map's Homepage").
 
-You can use it easy as call
+You can use it easily! just type
 
 `node index.js`
 
@@ -14,11 +14,11 @@ In the project folder with the optional params
 
 `node index.js -u i -c mexico`
 
-Retrieving you in a `.csv` file in `files` folder with the name:
+This creates a `.csv` file in `files` directory with the name:
 
     `${cityThatYouRequested} ${currentDate} weather.csv`, 'Mexico 2020_12_8 weather.csv' for example.
 
-With a content like:
+Generates an output like this one:
 
     Metric	        Value
     City	        Mexico
