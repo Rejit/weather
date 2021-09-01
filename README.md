@@ -1,5 +1,8 @@
 # Single Weather CLI 
 
+![image](https://user-images.githubusercontent.com/12840963/131598430-6dc33dcd-8b98-4716-b3cd-fdf0aa122466.png)
+
+
 The porpouse of this project it's to get a csv file with today's weather in a specific city with the information from the public site [Open Weather Map](https://openweathermap.org/ "Open Weather Map's Homepage").
 
 You can use it easily! just type
